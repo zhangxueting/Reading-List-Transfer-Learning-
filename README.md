@@ -8,7 +8,7 @@ The recommended papers of Transfer Learning and Multi-Task Learning
 
 **[1]** Parisotto E, Ba J L, Salakhutdinov R. **Actor-mimic: Deep multitask and transfer reinforcement learning**. arXiv preprint arXiv:1511.06342, 2015. [[pdf]](https://arxiv.org/pdf/1511.06342.pdf)
 
-**[2]** Oh J, Singh S, Lee H, et al. **Zero-shot task generalization with multi-task deep reinforcement learning**. arXiv preprint arXiv:1706.05064, 2017. [[pdf]](https://arxiv.org/pdf/1611.06194.pdf)
+**[2]** Oh J, Singh S, Lee H, et al. **Zero-shot task generalization with multi-task deep reinforcement learning**. arXiv preprint arXiv:1706.05064, 2017. [[pdf]](https://arxiv.org/pdf/1706.05064)
 
 **[3]** Teh Y, Bapst V, Pascanu R, et al. **Distral: Robust multitask reinforcement learning**,Advances in Neural Information Processing Systems. 2017: 4497-4507. [[pdf]](http://papers.nips.cc/paper/7036-distral-robust-multitask-reinforcement-learning.pdf)
 
