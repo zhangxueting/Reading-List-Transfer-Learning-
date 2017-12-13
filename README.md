@@ -1,6 +1,8 @@
 # Reading-List-Transfer-Learning
 The recommended papers of Transfer Learning and Multi-Task Learning 
-# Transfer Learning
+# Multi-Task and Transfer Learning
+
+
 
 # Deep Multi-Task and Transfer Reinforcement Learning especially for Decision Making
 
@@ -50,6 +52,15 @@ The recommended papers of Transfer Learning and Multi-Task Learning
 
 **[22]** Gupta A, Devin C, Liu Y X, et al. **Learning invariant feature spaces to transfer skills with reinforcement learning**. arXiv preprint arXiv:1703.02949, 2017. [[pdf]](https://arxiv.org/pdf/1703.02949)
 
+**[23]** Higgins I, Pal A, Rusu A A, et al. **Darla: Improving zero-shot transfer in reinforcement learning** . arXiv preprint arXiv:1707.08475, 2017.[[pdf]](https://arxiv.org/pdf/1707.08475)
+
+**[24]** Cabi S, Colmenarejo S G, Hoffman M W, et al. **The intentional unintentional agent: Learning to solve many continuous control tasks simultaneously**. arXiv preprint arXiv:1707.03300, 2017. [[pdf]](https://arxiv.org/pdf/1707.03300)
+
+**[25]** Heess N, Wayne G, Tassa Y, et al. **Learning and Transfer of Modulated Locomotor Controllers**. arXiv preprint arXiv:1610.05182, 2016. [[pdf]](https://arxiv.org/pdf/1610.05182)
+
+**[26]** Rusu A A, Vecerik M, Rothörl T, et al. **Sim-to-real robot learning from pixels with progressive nets**. arXiv preprint arXiv:1610.04286, 2016. [[pdf]](https://arxiv.org/pdf/1610.04286)
+
+**[27]** Andreas, Jacob, Dan Klein, and Sergey Levine. **Modular multitask reinforcement learning with policy sketches**. arXiv preprint arXiv:1611.01796 (2016). [[pdf]](https://arxiv.org/pdf/1611.01796)
 
 
 
